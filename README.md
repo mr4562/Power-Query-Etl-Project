@@ -24,10 +24,9 @@ Using Power Query:
 - Generated a consolidated output table
 ---
 ## Before Transformation
-![Original Data](Screenshots/Original_Data.png)
----
+![Original Data](NJOI_Original_Data.png)
 ## After Transformation
-![Final Output](Screenshots/Final_Output.png)
+![Final Output](NJOI_Final_Output.png)
 ---
 ## Transformation Logic
 ### Group By
